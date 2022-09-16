@@ -121,7 +121,7 @@ namespace PluginCode
             // In IL2CPP, coroutines don't always have the expected behavior. You need to test if its working as expected.
             while (true)
             {
-                Plugin.Log.LogDebug("Monobehavior Coroutine");
+                Plugin.Log.LogInfo("Monobehavior Coroutine");
                 yield return fiveSeconds;
             }
         }
