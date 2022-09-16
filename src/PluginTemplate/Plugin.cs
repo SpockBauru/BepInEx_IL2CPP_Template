@@ -140,14 +140,14 @@ namespace PluginCode
             timer = 0;
         }
 
-        //private void OnGui()
-        //{
-        //     GUI is The Achilles' Heel from IL2CPP
-        //     GUIStyle references sometimes work, sometimes don't
-        //     Many, MANY BUGS
-        //     Nothing is documented
-        //     WELCOME TO IL2CPP HELL
-        //     (recommended soundtrack: https://www.youtube.com/watch?v=Jm932Sqwf5E )
-        //}
+        // private void OnGui()
+        // {
+        //      GUI is The Achilles' Heel from IL2CPP
+        //      GUIStyle references sometimes work, sometimes don't
+        //      Many, MANY BUGS
+        //      Nothing is documented
+        //      WELCOME TO IL2CPP HELL
+        //      (recommended soundtrack: https://www.youtube.com/watch?v=Jm932Sqwf5E )
+        // }
     }
 }
