@@ -51,7 +51,7 @@ namespace PluginCode
         private ConfigEntry<bool> _exampleConfigEntry;
 
         /// <summary>
-        /// Host your MonoBehaviour components in an same the same GameObject
+        /// Host your MonoBehaviour components in the same GameObject
         /// that is shared between all your projects
         /// </summary>
         public GameObject YourName;
