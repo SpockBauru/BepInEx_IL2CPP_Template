@@ -1,0 +1,3 @@
+BepInEx Libraries come from BepInEx\Core
+For BepInEx 6.0.0-pre.1, Game Libraries must come from BepInEx\unhollowed
+For versions after pre.1, Game Libraries must come from BepInEx\interop
